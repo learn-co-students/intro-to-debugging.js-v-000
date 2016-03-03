@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="4" errors="0" failures="0" time="0.133" timestamp="2016-02-29T22:24:25">
+		<testcase classname="Jasmine Walkthrough" name="#sayHey should returns the string &amp;quot;hey friends&amp;quot;" time="0.056">
+		</testcase>
+		<testcase classname="Jasmine Walkthrough" name="#sayHey should return a string" time="0.074">
+		</testcase>
+		<testcase classname="Jasmine Walkthrough" name="#sayHeyFriend should return the string &amp;apos;hey friends _name_&amp;apos;" time="0">
+		</testcase>
+		<testcase classname="Jasmine Walkthrough" name="#sayHeyFriend should return a string&amp;apos;" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
