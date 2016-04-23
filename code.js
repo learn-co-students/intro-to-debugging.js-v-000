@@ -4,7 +4,8 @@ function sayHey(){
   return "hey friends!"; 
 }
 
-function sayHeyFriend(friendsName){
-  return "hey " + friendsName + "!!";  
+function sayHeyFriend(name){
+  debugger;
+  return "hey " + name + "!!";  
 
 }
