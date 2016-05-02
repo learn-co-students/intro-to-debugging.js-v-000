@@ -5,5 +5,6 @@ function sayHey() {
 }
 
 function sayHeyFriend(name) {
+  debugger; 
   return "hey " + name + "!!";
 }
