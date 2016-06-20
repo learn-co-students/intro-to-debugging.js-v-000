@@ -1,9 +1,10 @@
 'use strict';
 
 function sayHey() {
-  return "hey friends!";
-}
+  return 'hey friends!';
+};
 
 function sayHeyFriend(name) {
-  return "hey " + name + "!!";
-}
+  //return 'hey friends ${name}';
+  return `hey ${name}!!`;
+};
