@@ -5,6 +5,6 @@ function sayHey() {
 }
 
 function sayHeyFriend(name) {
-  var phrase = `hey ${name}!!`;
+  var phrase = "hey "+name+"!!";
   return phrase;
 }
